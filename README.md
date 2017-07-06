@@ -1,1 +1,4 @@
-# Hello-world
+# hello-world
+
+Figuring out github
+
